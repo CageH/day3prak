@@ -2,19 +2,21 @@
     color: #ffffff;
     line-height: 7vh;
     font-size: 30px;
-    width: 100%;
-    background: #fa4a3b;
+    width: 50%;
+    background: #ff0000;
     position: absolute;
+    margin-left: 25%;
     display: flex;
     justify-content: center;
     align-items: stretch;
+    font-family: 'Times New Roman', Times, serif;
 }
 .container{
     min-height:73vh;
     font-size: 20px;
     width: 100%;
     background-color: #fafafa;
-    margin-top: 7vh;
+    margin-top: 1vh;
     padding-top: 20vh;
     display: flex;
     flex-direction: column;
